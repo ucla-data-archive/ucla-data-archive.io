@@ -49,7 +49,7 @@ prev_next_buttons_location: both
 search_enabled: true
 hljs_style: github-gist
 
-theme: 'https://github.com/carlosperate/jekyll-theme-rtd'
+remote-theme: carlosperate/jekyll-theme-rtd
 lsi: false
 safe: true
 incremental: false
