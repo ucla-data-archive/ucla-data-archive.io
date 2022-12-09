@@ -33,7 +33,7 @@ destination: ./docs
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-rtd
+#theme: jekyll-theme-rtd
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
