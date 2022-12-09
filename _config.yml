@@ -41,7 +41,7 @@ plugins:
  # needed for jekyll github pages
  
  # Theme settings
-repo_url: 'https://github.com/zyykyy/data-science-center-termsofuse'
+#repo_url: 'https://github.com/zyykyy/data-science-center-termsofuse'
 edit_on_github: true
 github_docs_folder: false
 sticky_navigation: true
@@ -49,7 +49,7 @@ prev_next_buttons_location: both
 search_enabled: true
 hljs_style: github-gist
 
-theme: jekyll-theme-rtd
+theme: 'https://github.com/carlosperate/jekyll-theme-rtd'
 lsi: false
 safe: true
 incremental: false
