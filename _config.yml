@@ -39,9 +39,19 @@ plugins:
   - jekyll-remote-theme
   
  # needed for jekyll github pages
+ 
+ # Theme settings
+repo_url: 'https://github.com/zyykyy/data-science-center-termsofuse'
+edit_on_github: true
+github_docs_folder: false
+sticky_navigation: true
+prev_next_buttons_location: both
+search_enabled: true
+hljs_style: github-gist
+
+theme: jekyll-theme-rtd
 lsi: false
 safe: true
-source: ucla-data-archive/ucla-dataverse-documentation
 incremental: false
 highlighter: rouge
 gist:
