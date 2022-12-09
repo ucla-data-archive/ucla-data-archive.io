@@ -41,7 +41,7 @@ plugins:
  # needed for jekyll github pages
 lsi: false
 safe: true
-source: ucla-dataverse-documentation
+source: ucla-data-archive/ucla-dataverse-documentation
 incremental: false
 highlighter: rouge
 gist:
